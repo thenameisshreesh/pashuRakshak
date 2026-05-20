@@ -1,0 +1,10 @@
+flask>=3.0
+flask-cors
+flask-pymongo
+flask-jwt-extended
+pymongo[srv]
+python-dotenv
+reportlab
+Pillow
+gunicorn
+werkzeug

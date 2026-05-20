@@ -1,0 +1,12 @@
+"""Models package (MongoDB is schema-less, but we keep collection name references here)."""
+
+COLLECTION_USERS = "users"
+COLLECTION_SCHEMES = "schemes"
+COLLECTION_APPLICATIONS = "applications"
+COLLECTION_RFID_TAGS = "rfid_tags"
+COLLECTION_RFID_BOUNDARIES = "rfid_boundaries"
+COLLECTION_SCAN_SESSIONS = "scan_sessions"
+COLLECTION_SCAN_RESULTS = "scan_results"
+COLLECTION_RAIDS = "raids"
+COLLECTION_NOTIFICATIONS = "notifications"
+COLLECTION_AUDIT_LOGS = "audit_logs"
